@@ -13,6 +13,7 @@
 
 - Replay Attack, or Replay Attack, happens when a malicious actor intercepts and then repeats a valid data transmission that goes through a network
 - Start counting nonce from 1.
+- The use of chain ids to confirm that transactions are going to the right network.
 - Use Keccak hashing for `address(this)`
 
 4. WHat checks are made on Transactions for `view` functions?
